@@ -1,5 +1,7 @@
 # LuaTemplate
 
+![Demo](./assets/preview.gif)
+
 Dynamic template system for Neovim.
 Create new buffers from templates with support for Lua logic, support nested templates, and asynchronous UI selection.
 
